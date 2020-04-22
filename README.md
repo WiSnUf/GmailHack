@@ -1,2 +1,11 @@
-# GmailHack
-Tools Untuk Hack Akun Teman Pacar Maupun Gmail Mantan :v      Tapi Harus Ada World List Ny Dulu Cokk Baru Bisa  Cara Membuat Worldlist Khusus Android Kalian Tinggal Donwload Aplikai : WebMasterLite  Kalo Kalian Males Untul Buat Ny Ya Tinggal Download Worldlist Di Google Cokk...
+Tools Buat Bruteforce Gmail
+
+Khususny Buat Yang Lagi Kesel Sama Mantanny :v
+Tinggal Lu Buat Wordlist
+Atau
+Kalian Tinggal Download Di Google Banyak
+
+Dan Selamat Mencoba Akun Manta Lu :v
+
+
+Bye Qimak :v
